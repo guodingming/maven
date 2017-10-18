@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:43:57 CST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1438047358049
+http\://192.168.40.249\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.geotools\:gt-shapefile\:pom\:12.1 from/to nexus (http\://192.168.40.249\:8081/nexus/content/groups/public/)\: Connect to 192.168.40.249\:8081 [/192.168.40.249] failed\: Connection timed out\: connect
+http\://repo.maven.apache.org/maven2/.error=
+d958eddaf01a5b0da27f51834e3051bde37bfb5f@default-http\://192.168.40.249\:8081/nexus/content/groups/public/.lastUpdated=1438047837480

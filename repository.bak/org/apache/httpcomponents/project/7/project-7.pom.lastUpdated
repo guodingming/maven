@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:37:13 CST 2017
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493177833664
+http\://download.java.net/maven/2/.lastUpdated=1493177832824
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~stack/m2/repository/.error=
+@default-http\://repository.codehaus.org/.lastUpdated=1493177832835
+http\://download.java.net/maven/2/.error=
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493177831964
+http\://repository.codehaus.org/.error=Could not transfer artifact org.apache.httpcomponents\:project\:pom\:7 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org

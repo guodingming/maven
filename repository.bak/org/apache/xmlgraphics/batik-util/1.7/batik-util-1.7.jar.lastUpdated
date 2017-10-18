@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 23 18:14:16 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1490264056714
+@default-nexus-http\://119.97.224.99\:8003/nexus/content/groups/public/.lastUpdated=1490263983270
+http\://119.97.224.99\:8003/nexus/content/groups/public/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-util\:jar\:1.7 from/to nexus (http\://119.97.224.99\:8003/nexus/content/groups/public/)\: D\:\\.m2\\repository\\org\\apache\\xmlgraphics\\batik-util\\1.7\\batik-util-1.7.jar.part.lock (\u53E6\u4E00\u4E2A\u7A0B\u5E8F\u6B63\u5728\u4F7F\u7528\u6B64\u6587\u4EF6\uFF0C\u8FDB\u7A0B\u65E0\u6CD5\u8BBF\u95EE\u3002)

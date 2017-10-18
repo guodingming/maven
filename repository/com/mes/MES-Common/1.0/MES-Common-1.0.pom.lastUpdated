@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 13 17:48:37 CST 2017
+http\://192.168.5.3\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1499939317138
+http\://192.168.5.3\:8081/nexus/content/repositories/thirdparty/.error=
+http\://192.168.5.12\:8081/nexus/content/repositories/boundlessgeo/.error=
+http\://192.168.5.12\:8081/nexus/content/repositories/boundlessgeo/.lastUpdated=1499939317164
+http\://192.168.5.3\:8081/nexus/content/repositories/Cloudera/.error=
+http\://192.168.5.3\:8081/nexus/content/repositories/Cloudera/.lastUpdated=1499939317181
+http\://192.168.5.12\:8081/nexus/content/repositories/com.hirain.telematics-Release/.lastUpdated=1499939317245
+http\://192.168.5.3\:8081/nexus/content/repositories/central/.error=
+http\://192.168.5.3\:8081/nexus/content/repositories/central/.lastUpdated=1499939317197

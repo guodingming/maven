@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:52:02 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493178712850
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493178428207
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178722916
+http\://people.apache.org/~garyh/mvn/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493178671365
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178709946
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493178313824
+http\://download.java.net/maven/2/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact com.yammer.metrics\:metrics-core\:jar\:2.2.0 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713082
+http\://people.apache.org/~stack/m2/repository/.error=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 21 18:02:54 CST 2017
+hadoop-mapreduce-client-jobclient-2.6.0.pom>nexus=
+hadoop-mapreduce-client-jobclient-2.6.0.jar>nexus=
+hadoop-mapreduce-client-jobclient-2.6.0-tests.jar>nexus=

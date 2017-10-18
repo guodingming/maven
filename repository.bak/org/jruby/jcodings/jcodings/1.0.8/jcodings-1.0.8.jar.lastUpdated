@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:16 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493178670115
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493178426865
+https\://repository.apache.org/content/repositories/releases/.error=
+@default-http\://repository.codehaus.org/.lastUpdated=1493178676202
+http\://repository.codehaus.org/.error=Could not transfer artifact org.jruby.jcodings\:jcodings\:jar\:1.0.8 from/to codehaus (http\://repository.codehaus.org)\: repository.codehaus.org
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493178312753

@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:15 CST 2017
+commons-collections-3.2.2.pom>repository.jboss.org=
+commons-collections-3.2.2.jar>repository.jboss.org=
+commons-collections-3.2.2.pom>nexus=
+commons-collections-3.2.2.jar>nexus=
+commons-collections-3.2.2.jar>central=
+commons-collections-3.2.2.pom>central=
+commons-collections-3.2.2.pom>apache\ release=
+commons-collections-3.2.2.jar>apache\ release=

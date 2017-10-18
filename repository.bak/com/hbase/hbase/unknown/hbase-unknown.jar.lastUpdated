@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 25 17:54:47 CST 2017
+http\://119.97.224.99\:8003/nexus/content/groups/public/.lastUpdated=1493114066922
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.hbase\:hbase\:jar\:unknown from/to central (http\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:80 [repo.maven.apache.org/151.101.24.215] failed\: Connection timed out\: connect
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1493114087944
+http\://119.97.224.99\:8003/nexus/content/groups/public/.error=

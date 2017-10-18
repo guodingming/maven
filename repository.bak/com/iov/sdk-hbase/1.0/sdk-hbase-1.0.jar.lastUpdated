@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 17:02:05 CST 2017
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495789325732
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495789325807
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact com.iov\:sdk-hbase\:jar\:1.0 from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/com/iov/sdk-hbase/1.0/sdk-hbase-1.0.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 1.0.

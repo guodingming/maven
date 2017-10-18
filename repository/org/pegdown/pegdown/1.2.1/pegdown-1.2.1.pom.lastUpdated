@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 22 13:46:44 CST 2017
+http\://192.168.5.12\:8081/nexus/content/repositories/boundlessgeo/.error=
+http\://192.168.5.3\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1498110403865
+http\://192.168.5.3\:8081/nexus/content/repositories/thirdparty/.error=
+http\://192.168.5.3\:8081/nexus/content/repositories/Cloudera/.error=
+http\://192.168.5.3\:8081/nexus/content/repositories/Cloudera/.lastUpdated=1498110404892
+http\://192.168.5.12\:8081/nexus/content/repositories/boundlessgeo/.lastUpdated=1498110404619
+http\://192.168.5.3\:8081/nexus/content/repositories/central/.lastUpdated=1498110404926

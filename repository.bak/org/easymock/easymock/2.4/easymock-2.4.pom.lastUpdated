@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:11:56 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493176316985
+@default-http\://repository.apache.org/snapshots/.lastUpdated=1493176315393
+http\://repository.apache.org/snapshots/.error=Could not transfer artifact org.easymock\:easymock\:pom\:2.4 from/to apache.snapshots (http\://repository.apache.org/snapshots/)\: Connect to repository.apache.org\:80 [repository.apache.org/207.244.88.143] failed\: Connection timed out\: connect

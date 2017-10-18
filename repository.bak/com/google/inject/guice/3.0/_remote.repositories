@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:13 CST 2017
+guice-3.0.pom>nexus=
+guice-3.0.jar>nexus=
+guice-3.0.jar>central=
+guice-3.0.pom>central=
+guice-3.0.pom>repository.jboss.org=
+guice-3.0.jar>repository.jboss.org=

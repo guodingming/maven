@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:52:10 CST 2017
+netty-3.2.4.Final.jar>jboss-release-repository=
+netty-3.2.4.Final.pom>nexus=
+netty-3.2.4.Final.jar>nexus=
+netty-3.2.4.Final.pom>jboss-release-repository=
+netty-3.2.4.Final.jar>central=
+netty-3.2.4.Final.jar>repository.jboss.org=
+netty-3.2.4.Final.pom>repository.jboss.org=
+netty-3.2.4.Final.pom>central=

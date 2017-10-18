@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:16 CST 2017
+mockito-all-1.10.8.pom>repository.jboss.org=
+mockito-all-1.10.8.jar>repository.jboss.org=
+mockito-all-1.10.8.jar>central=
+mockito-all-1.10.8.pom>central=
+mockito-all-1.10.8.jar>nexus=
+mockito-all-1.10.8.pom>nexus=

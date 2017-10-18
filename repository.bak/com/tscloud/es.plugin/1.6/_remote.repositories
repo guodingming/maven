@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 23 16:13:10 CST 2017
+es.plugin-1.6.pom>=
+es.plugin-1.6.pom>nexus=
+es.plugin-1.6.jar>nexus=
+es.plugin-1.6.jar>=

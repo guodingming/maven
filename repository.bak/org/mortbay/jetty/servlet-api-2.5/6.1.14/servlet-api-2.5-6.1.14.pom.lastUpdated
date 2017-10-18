@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:27:41 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493177261660
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493177255020
+@legacy-http\://download.java.net/maven/1/.lastUpdated=1493177261980
+http\://download.java.net/maven/2/.lastUpdated=1493177261975
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://download.java.net/maven/1/.error=Could not transfer artifact org.mortbay.jetty\:servlet-api-2.5\:pom\:6.1.14 from/to m1.java.net (http\://download.java.net/maven/1)\: No connector available to access repository m1.java.net (http\://download.java.net/maven/1) of type legacy using the available factories WagonRepositoryConnectorFactory
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493177254320
+http\://download.java.net/maven/2/.error=

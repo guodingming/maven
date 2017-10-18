@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:56:15 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493178712945
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1493178730792
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178722998
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178710039
+https\://repository.apache.org/content/repositories/snapshots/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1493178975000
+http\://download.java.net/maven/2/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact commons-collections\:commons-collections\:jar\:3.2.2 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713137
+http\://people.apache.org/~stack/m2/repository/.error=

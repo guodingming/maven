@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:32:58 CST 2017
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493177543519
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1493177578829
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493177577373
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493177543814
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493177546169
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493177543299
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:pom\:1.0.3.2 from/to java.net (http\://download.java.net/maven/2/)\: Failed to transfer file\: http\://download.java.net/maven/2/org/xerial/snappy/snappy-java/1.0.3.2/snappy-java-1.0.3.2.pom. Return code is\: 504, ReasonPhrase\: Gateway Timeout.
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:pom\:1.0.3.2 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493177576593
+http\://people.apache.org/~stack/m2/repository/.error=
+@default-http\://download.java.net/maven/2/.lastUpdated=1493177576576

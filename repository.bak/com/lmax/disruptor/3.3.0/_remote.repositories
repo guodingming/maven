@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:11 CST 2017
+disruptor-3.3.0.pom>nexus=
+disruptor-3.3.0.pom>central=
+disruptor-3.3.0.jar>nexus=
+disruptor-3.3.0.jar>central=
+disruptor-3.3.0.pom>repository.jboss.org=
+disruptor-3.3.0.jar>repository.jboss.org=

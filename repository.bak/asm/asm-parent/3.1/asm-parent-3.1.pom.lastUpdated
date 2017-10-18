@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:22:31 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493176950542
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493176949043
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493176949295
+https\://repository.apache.org/content/repositories/snapshots/.error=
+@default-http\://maven.glassfish.org/content/groups/glassfish/.lastUpdated=1493176951485
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493176948837
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1493176950026
+http\://download.java.net/maven/2/.error=
+http\://maven.glassfish.org/content/groups/glassfish/.error=Could not transfer artifact asm\:asm-parent\:pom\:3.1 from/to glassfish-repository (http\://maven.glassfish.org/content/groups/glassfish)\: hostname in certificate didn't match\: <maven.glassfish.org> \!\= <maven.java.net> OR <maven.java.net>
+https\://repository.apache.org/content/repositories/releases/.error=

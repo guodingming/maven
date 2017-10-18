@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:34:10 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493177649014
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1493177650058
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493177649843
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493177648509
+http\://download.java.net/maven/2/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.apache.velocity\:velocity\:pom\:1.7 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493177649025
+http\://people.apache.org/~stack/m2/repository/.error=

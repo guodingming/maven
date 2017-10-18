@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:37:27 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493177846559
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493177844780
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493177847386
+http\://people.apache.org/~garyh/mvn/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493177845086
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493177845896
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493177844563
+http\://download.java.net/maven/2/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.jruby\:jruby-common\:pom\:1.6.8 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493177846575
+http\://people.apache.org/~stack/m2/repository/.error=

@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:21:17 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493176876408
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493176864683
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493176875005
+https\://repository.apache.org/content/repositories/snapshots/.error=
+@default-http\://maven.glassfish.org/content/groups/glassfish/.lastUpdated=1493176877075
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493176864479
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1493176875730
+http\://download.java.net/maven/2/.error=
+http\://maven.glassfish.org/content/groups/glassfish/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:pom\:2.2.2 from/to glassfish-repository (http\://maven.glassfish.org/content/groups/glassfish)\: hostname in certificate didn't match\: <maven.glassfish.org> \!\= <maven.java.net> OR <maven.java.net>
+https\://repository.apache.org/content/repositories/releases/.error=

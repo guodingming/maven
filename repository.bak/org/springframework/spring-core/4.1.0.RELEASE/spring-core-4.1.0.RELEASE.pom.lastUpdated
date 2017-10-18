@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 25 10:49:53 CST 2017
+http\://maven.systoon.com/repository/public/.lastUpdated=1495680593460
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495680593273
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495680593335
+http\://maven.systoon.com/repository/releases/.error=
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact org.springframework\:spring-core\:pom\:4.1.0.RELEASE from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/org/springframework/spring-core/4.1.0.RELEASE/spring-core-4.1.0.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 4.1.0.RELEASE.

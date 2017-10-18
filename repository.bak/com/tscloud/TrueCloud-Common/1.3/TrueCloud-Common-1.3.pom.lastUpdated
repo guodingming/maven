@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 20 15:02:42 CST 2017
+http\://192.168.5.3\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1497942157714
+http\://192.168.5.3\:8081/nexus/content/repositories/thirdparty/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1497942162721
+http\://192.168.5.12\:8081/nexus/content/repositories/boundlessgeo/.error=
+http\://192.168.5.12\:8081/nexus/content/repositories/boundlessgeo/.lastUpdated=1497942159014
+http\://repo.maven.apache.org/maven2/.error=
+http\://192.168.5.3\:8081/nexus/content/repositories/Cloudera/.error=
+http\://192.168.5.3\:8081/nexus/content/repositories/Cloudera/.lastUpdated=1497942161015
+http\://192.168.5.3\:8081/nexus/content/repositories/central/.error=
+http\://192.168.5.3\:8081/nexus/content/repositories/central/.lastUpdated=1497942161446

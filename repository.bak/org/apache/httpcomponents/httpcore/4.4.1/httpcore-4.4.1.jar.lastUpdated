@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:52:03 CST 2017
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178723021
+http\://download.java.net/maven/2/.lastUpdated=1493178712972
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~stack/m2/repository/.error=
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713157
+http\://download.java.net/maven/2/.error=
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178710069
+http\://repository.codehaus.org/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.4.1 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org

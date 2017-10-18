@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:52:02 CST 2017
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178722976
+http\://download.java.net/maven/2/.lastUpdated=1493178712917
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~stack/m2/repository/.error=
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713120
+http\://download.java.net/maven/2/.error=
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178710016
+http\://repository.codehaus.org/.error=Could not transfer artifact org.apache.avro\:avro-ipc\:jar\:1.5.3 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org

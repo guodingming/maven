@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 02 10:49:06 CST 2017
+http\://119.97.224.99\:8003/nexus/content/groups/public/.lastUpdated=1493693346103
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1493345514612
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.sun.jersey\:jersey-server\:jar\:1.13 from/to central (http\://repo.maven.apache.org/maven2)\: ProcessCanceledException

@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:10 CST 2017
+libthrift-0.9.3.pom>central=
+libthrift-0.9.3.pom>repository.jboss.org=
+libthrift-0.9.3.jar>repository.jboss.org=
+libthrift-0.9.3.pom>nexus=
+libthrift-0.9.3.jar>nexus=
+libthrift-0.9.3.jar>central=
+libthrift-0.9.3.jar>apache\ release=
+libthrift-0.9.3.pom>apache\ release=

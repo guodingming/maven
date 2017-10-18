@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:05:40 CST 2017
+log4j-1.2.17.jar>central=
+log4j-1.2.17.pom>central=
+log4j-1.2.17.pom>nexus=
+log4j-1.2.17.jar>nexus=
+log4j-1.2.17.pom>apache\ release=
+log4j-1.2.17.jar>apache\ release=
+log4j-1.2.17.jar>repository.jboss.org=
+log4j-1.2.17.pom>repository.jboss.org=

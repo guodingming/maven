@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:52:10 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493178712935
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493178427385
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1493178730774
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178722988
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493178670635
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178710031
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493178313205
+http\://download.java.net/maven/2/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.jboss.netty\:netty\:jar\:3.2.4.Final from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713130
+http\://people.apache.org/~stack/m2/repository/.error=

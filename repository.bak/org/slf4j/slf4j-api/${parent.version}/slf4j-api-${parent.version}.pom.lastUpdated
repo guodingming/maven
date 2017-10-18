@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 25 17:41:54 CST 2017
+d958eddaf01a5b0da27f51834e3051bde37bfb5f@default-http\://119.97.224.99\:8003/nexus/content/groups/public/.lastUpdated=1493113314568
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:${parent.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 57\: http\://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/${parent.version}/slf4j-api-${parent.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1493113314575
+http\://119.97.224.99\:8003/nexus/content/groups/public/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:${parent.version} from/to nexus (http\://119.97.224.99\:8003/nexus/content/groups/public/)\: Illegal character in path at index 75\: http\://119.97.224.99\:8003/nexus/content/groups/public/org/slf4j/slf4j-api/${parent.version}/slf4j-api-${parent.version}.pom

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat May 27 11:38:40 CST 2017
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495856320022
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495856320069
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact com.iov\:IOV-Common\:pom\:1.0 from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/com/iov/IOV-Common/1.0/IOV-Common-1.0.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 1.0.

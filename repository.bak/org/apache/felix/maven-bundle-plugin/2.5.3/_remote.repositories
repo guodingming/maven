@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:15:22 CST 2017
+maven-bundle-plugin-2.5.3.pom>nexus=
+maven-bundle-plugin-2.5.3.jar>central=
+maven-bundle-plugin-2.5.3.jar>nexus=
+maven-bundle-plugin-2.5.3.pom>central=

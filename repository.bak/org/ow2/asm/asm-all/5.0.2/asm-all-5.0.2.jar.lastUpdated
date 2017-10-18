@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 25 10:49:52 CST 2017
+http\://maven.systoon.com/repository/public/.lastUpdated=1495680592540
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495680552691
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495680553549
+http\://maven.systoon.com/repository/releases/.error=
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact org.ow2.asm\:asm-all\:jar\:5.0.2 from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/org/ow2/asm/asm-all/5.0.2/asm-all-5.0.2.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 5.0.2.

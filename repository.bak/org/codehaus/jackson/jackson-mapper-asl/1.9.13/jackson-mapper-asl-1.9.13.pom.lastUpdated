@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:21:36 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493176895830
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493176891277
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493176891621
+https\://repository.apache.org/content/repositories/snapshots/.error=
+@default-http\://maven.glassfish.org/content/groups/glassfish/.lastUpdated=1493176896789
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493176891079
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1493176895337
+http\://download.java.net/maven/2/.error=
+http\://maven.glassfish.org/content/groups/glassfish/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:pom\:1.9.13 from/to glassfish-repository (http\://maven.glassfish.org/content/groups/glassfish)\: hostname in certificate didn't match\: <maven.glassfish.org> \!\= <maven.java.net> OR <maven.java.net>
+https\://repository.apache.org/content/repositories/releases/.error=

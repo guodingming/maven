@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:15:22 CST 2017
+org.osgi.core-4.1.0.pom>nexus=
+org.osgi.core-4.1.0.jar>nexus=
+org.osgi.core-4.1.0.pom>central=
+org.osgi.core-4.1.0.jar>central=

@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:56:17 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493178713002
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493178429927
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178723061
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493178673175
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178710116
+https\://repository.apache.org/content/repositories/snapshots/.error=
+@default-http\://maven.glassfish.org/content/groups/glassfish/.lastUpdated=1493178977867
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493178315274
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1493178974120
+http\://download.java.net/maven/2/.error=
+http\://maven.glassfish.org/content/groups/glassfish/.error=Could not transfer artifact org.codehaus.jackson\:jackson-core-asl\:jar\:1.9.13 from/to glassfish-repository (http\://maven.glassfish.org/content/groups/glassfish)\: hostname in certificate didn't match\: <maven.glassfish.org> \!\= <maven.java.net> OR <maven.java.net>
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.codehaus.jackson\:jackson-core-asl\:jar\:1.9.13 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713202
+http\://people.apache.org/~stack/m2/repository/.error=

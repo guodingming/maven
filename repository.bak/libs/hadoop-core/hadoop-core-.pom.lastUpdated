@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 25 17:48:56 CST 2017
+http\://119.97.224.99\:8003/nexus/content/groups/public/.lastUpdated=1493113706361
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact libs\:hadoop-core\:pom\: from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file\: http\://repo.maven.apache.org/maven2/libs/hadoop-core//hadoop-core-.pom. Return code is\: 504 , ReasonPhrase\:Gateway Timeout.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1493113736811
+http\://119.97.224.99\:8003/nexus/content/groups/public/.error=

@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:56:18 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493178712882
+http\://people.apache.org/~garyh/mvn/.error=
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178722953
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178709969
+https\://repository.apache.org/content/repositories/snapshots/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1493178974077
+http\://download.java.net/maven/2/.error=
+http\://files.couchbase.com/maven2/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.9 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713100
+http\://people.apache.org/~stack/m2/repository/.error=
+http\://files.couchbase.com/maven2/.lastUpdated=1493178978507

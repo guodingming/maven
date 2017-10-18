@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:52:03 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493178712985
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493178427862
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178723038
+http\://people.apache.org/~garyh/mvn/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493178671050
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178710086
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493178313545
+http\://download.java.net/maven/2/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.mortbay.jetty\:jsp-2.1\:jar\:6.1.14 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713170
+http\://people.apache.org/~stack/m2/repository/.error=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 24 16:36:33 CST 2017
+osgi-resource-locator-1.0.1.jar>nexus=
+osgi-resource-locator-1.0.1.pom>nexus=
+osgi-resource-locator-1.0.1.jar>central=
+osgi-resource-locator-1.0.1.pom>central=

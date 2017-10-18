@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:52:03 CST 2017
+http\://download.java.net/maven/2/.lastUpdated=1493178676817
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493178427867
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493178723041
+http\://people.apache.org/~garyh/mvn/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493178671055
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493178710089
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493178313548
+http\://download.java.net/maven/2/.error=
+http\://download.java.net/maven/1/.error=Could not transfer artifact org.mortbay.jetty\:jsp-api-2.1\:jar\:6.1.14 from/to m1.java.net (http\://download.java.net/maven/1)\: No connector available to access repository m1.java.net (http\://download.java.net/maven/1) of type legacy using the available factories WagonRepositoryConnectorFactory
+https\://repository.apache.org/content/repositories/releases/.error=
+@legacy-http\://download.java.net/maven/1/.lastUpdated=1493178684260
+http\://repository.codehaus.org/.error=Could not transfer artifact org.mortbay.jetty\:jsp-api-2.1\:jar\:6.1.14 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493178713175
+http\://people.apache.org/~stack/m2/repository/.error=

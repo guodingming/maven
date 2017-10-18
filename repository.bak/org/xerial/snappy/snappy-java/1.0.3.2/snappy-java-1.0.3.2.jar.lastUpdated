@@ -1,0 +1,19 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 10:46:17 CST 2017
+http\://119.97.224.99\:8003/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/releases/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.3.2 from/to apache release (https\://repository.apache.org/content/repositories/releases/)\: ProcessCanceledException
+@default-https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493116622347
+http\://repository.codehaus.org/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.3.2 from/to codehaus (http\://repository.codehaus.org/)\: ProcessCanceledException
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1493116622394
+@default-http\://download.java.net/maven/2/.lastUpdated=1493116622364
+http\://people.apache.org/~stack/m2/repository/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.3.2 from/to apache non-releases (http\://people.apache.org/~stack/m2/repository)\: ProcessCanceledException
+@default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493116622382
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493174777142
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.3.2 from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: ProcessCanceledException
+http\://119.97.224.99\:8003/nexus/content/groups/public/.lastUpdated=1493174763572
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.3.2 from/to java.net (http\://download.java.net/maven/2/)\: ProcessCanceledException
+@default-http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493116622354
+@default-http\://people.apache.org/~garyh/mvn/.lastUpdated=1493116622389
+@default-http\://repository.codehaus.org/.lastUpdated=1493116622372
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.3.2 from/to jboss-release-repository (https\://repository.jboss.org/nexus/content/repositories/releases/)\: ProcessCanceledException
+http\://people.apache.org/~garyh/mvn/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.3.2 from/to ghelmling.testing (http\://people.apache.org/~garyh/mvn/)\: ProcessCanceledException

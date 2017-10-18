@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:10 CST 2017
+velocity-1.7.jar>central=
+velocity-1.7.pom>nexus=
+velocity-1.7.jar>nexus=
+velocity-1.7.pom>central=
+velocity-1.7.jar>apache\ release=
+velocity-1.7.pom>apache\ release=
+velocity-1.7.pom>repository.jboss.org=
+velocity-1.7.jar>repository.jboss.org=

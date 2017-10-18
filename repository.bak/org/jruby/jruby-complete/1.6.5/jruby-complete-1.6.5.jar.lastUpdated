@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 10:46:03 CST 2017
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact org.jruby\:jruby-complete\:jar\:1.6.5 from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: ProcessCanceledException
+@default-http\://people.apache.org/~garyh/mvn/.lastUpdated=1493116622389
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1493116622342
+@default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493116622382
+http\://people.apache.org/~garyh/mvn/.error=Could not transfer artifact org.jruby\:jruby-complete\:jar\:1.6.5 from/to ghelmling.testing (http\://people.apache.org/~garyh/mvn/)\: ProcessCanceledException
+@default-http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493116622357
+http\://119.97.224.99\:8003/nexus/content/groups/public/.lastUpdated=1493174763575
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.jruby\:jruby-complete\:jar\:1.6.5 from/to java.net (http\://download.java.net/maven/2/)\: ProcessCanceledException
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jruby\:jruby-complete\:jar\:1.6.5 from/to central (http\://repo.maven.apache.org/maven2)\: ProcessCanceledException
+https\://repository.apache.org/content/repositories/releases/.error=Could not transfer artifact org.jruby\:jruby-complete\:jar\:1.6.5 from/to apache release (https\://repository.apache.org/content/repositories/releases/)\: ProcessCanceledException
+http\://repository.codehaus.org/.error=Could not transfer artifact org.jruby\:jruby-complete\:jar\:1.6.5 from/to codehaus (http\://repository.codehaus.org/)\: ProcessCanceledException
+@default-http\://repository.codehaus.org/.lastUpdated=1493116622374
+http\://people.apache.org/~stack/m2/repository/.error=Could not transfer artifact org.jruby\:jruby-complete\:jar\:1.6.5 from/to apache non-releases (http\://people.apache.org/~stack/m2/repository)\: ProcessCanceledException
+@default-https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493116622349
+@default-http\://download.java.net/maven/2/.lastUpdated=1493116622364

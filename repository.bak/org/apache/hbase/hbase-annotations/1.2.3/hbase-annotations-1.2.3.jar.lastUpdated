@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 22 17:21:23 CST 2017
+http\://maven.systoon.com/repository/public/.lastUpdated=1495444883329
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495444788691
+http\://maven.systoon.com/repository/releases/.error=
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact org.apache.hbase\:hbase-annotations\:jar\:1.2.3 from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/org/apache/hbase/hbase-annotations/1.2.3/hbase-annotations-1.2.3.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 1.2.3.
+f9c27225afa323f055358200205275704e8bf8da@default-snapshots-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495444788117

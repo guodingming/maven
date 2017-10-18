@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 17:52:26 CST 2017
+http\://maven.systoon.com/repository/public/.lastUpdated=1495792346459
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495792346365
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495792346381
+http\://maven.systoon.com/repository/releases/.error=
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact com.google.guava\:guava\:pom\:11.0.2 from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/com/google/guava/guava/11.0.2/guava-11.0.2.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 11.0.2.

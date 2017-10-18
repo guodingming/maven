@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:13 CST 2017
+jersey-server-1.9.pom>nexus=
+jersey-server-1.9.jar>nexus=
+jersey-server-1.9.jar>central=
+jersey-server-1.9.pom>repository.jboss.org=
+jersey-server-1.9.jar>repository.jboss.org=
+jersey-server-1.9.pom>central=

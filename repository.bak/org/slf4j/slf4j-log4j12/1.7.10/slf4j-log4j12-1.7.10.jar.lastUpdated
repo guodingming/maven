@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 25 10:49:52 CST 2017
+http\://maven.systoon.com/repository/public/.lastUpdated=1495680592930
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495680553003
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495680553751
+http\://maven.systoon.com/repository/releases/.error=
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:jar\:1.7.10 from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 1.7.10.

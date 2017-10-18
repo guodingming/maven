@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 25 10:43:10 CST 2017
+http\://maven.systoon.com/repository/public/.lastUpdated=1495680190651
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495680190523
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495680190549
+http\://maven.systoon.com/repository/releases/.error=
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact it.unimi.dsi\:fastutil\:pom\:6.5.6 from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/it/unimi/dsi/fastutil/6.5.6/fastutil-6.5.6.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 6.5.6.

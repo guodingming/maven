@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:13 CST 2017
+jersey-guice-1.9.pom>nexus=
+jersey-guice-1.9.jar>nexus=
+jersey-guice-1.9.jar>central=
+jersey-guice-1.9.pom>central=
+jersey-guice-1.9.pom>repository.jboss.org=
+jersey-guice-1.9.jar>repository.jboss.org=

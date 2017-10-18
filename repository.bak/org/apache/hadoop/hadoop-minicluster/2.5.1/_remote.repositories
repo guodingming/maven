@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:51:13 CST 2017
+hadoop-minicluster-2.5.1.jar>central=
+hadoop-minicluster-2.5.1.pom>central=
+hadoop-minicluster-2.5.1.pom>apache\ release=
+hadoop-minicluster-2.5.1.jar>apache\ release=
+hadoop-minicluster-2.5.1.pom>repository.jboss.org=
+hadoop-minicluster-2.5.1.jar>repository.jboss.org=
+hadoop-minicluster-2.5.1.pom>nexus=
+hadoop-minicluster-2.5.1.jar>nexus=

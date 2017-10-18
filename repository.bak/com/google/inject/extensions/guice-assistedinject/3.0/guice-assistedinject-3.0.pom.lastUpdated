@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 25 10:43:06 CST 2017
+http\://maven.systoon.com/repository/public/.lastUpdated=1495680186543
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495680186433
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495680186453
+http\://maven.systoon.com/repository/releases/.error=
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact com.google.inject.extensions\:guice-assistedinject\:pom\:3.0 from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/com/google/inject/extensions/guice-assistedinject/3.0/guice-assistedinject-3.0.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 3.0.

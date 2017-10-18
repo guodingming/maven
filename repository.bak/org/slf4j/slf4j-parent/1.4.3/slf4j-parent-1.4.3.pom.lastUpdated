@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 11:37:47 CST 2017
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://download.java.net/maven/2/.lastUpdated=1493177867110
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1493177863960
+http\://people.apache.org/~garyh/mvn/.lastUpdated=1493177867738
+http\://people.apache.org/~garyh/mvn/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493177864250
+http\://people.apache.org/~stack/m2/repository/.lastUpdated=1493177866612
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1493177863728
+http\://download.java.net/maven/2/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.4.3 from/to codehaus (http\://repository.codehaus.org/)\: repository.codehaus.org
+@default-http\://repository.codehaus.org/.lastUpdated=1493177867119
+http\://people.apache.org/~stack/m2/repository/.error=

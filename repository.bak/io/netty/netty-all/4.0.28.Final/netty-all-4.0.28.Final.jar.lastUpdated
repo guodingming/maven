@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 25 10:49:11 CST 2017
+http\://repo.hortonworks.com/content/repositories/releases/.error=
+http\://maven.systoon.com/repository/public/.lastUpdated=1495680551131
+f9c27225afa323f055358200205275704e8bf8da@default-http\://maven.systoon.com/repository/snapshots/.lastUpdated=1495680550007
+http\://repo.hortonworks.com/content/repositories/releases/.lastUpdated=1495680551723
+http\://maven.systoon.com/repository/releases/.lastUpdated=1495680550023
+http\://maven.systoon.com/repository/releases/.error=
+http\://maven.systoon.com/repository/snapshots/.error=Could not transfer artifact io.netty\:netty-all\:jar\:4.0.28.Final from/to snapshots (http\://maven.systoon.com/repository/snapshots/)\: Failed to transfer file\: http\://maven.systoon.com/repository/snapshots/io/netty/netty-all/4.0.28.Final/netty-all-4.0.28.Final.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 4.0.28.Final.
